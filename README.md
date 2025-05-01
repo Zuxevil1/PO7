@@ -12,7 +12,7 @@
 ![GET Book by ID](SS/Latihan-3-4GET-Book-ID.png)
 
 #### POST Book
-![POST Book by ID](SS/Latihan-3-4-POST-Book.png)
+![POST Book](SS/Latihan-3-4-POST-Book.png)
 
 #### PUT Book ID = 3
 ![PUT Book by ID](SS/Latihan-3-4-PUT-Book-ID.png)
@@ -21,3 +21,18 @@
 ![DELETE Book by ID](SS/Latihan-3-4-DELETE.png)
 
 </details>
+
+<details>
+<summary>
+
+### Latihan 5 </summary>
+
+#### Tampilan tanpa data
+![Tampilan Tanpa Data](SS/Latihan-5-2.png)
+
+#### Tampilan setelah menambahkan data dengan Postman
+![Tampilan Setelah Data ditambahkan](SS/Latihan-5-1.png)
+
+</details>
+
+
