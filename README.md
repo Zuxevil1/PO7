@@ -35,4 +35,52 @@
 
 </details>
 
+<details>
+<summary>
 
+### Latihan 6 </summary>
+
+#### Tampilan sebelum di refresh
+![Tampilan sebelum](SS/Latihan-6-1.png)
+
+#### Tampilan setelah di refresh
+![Tampilan data setelah di refresh](SS/Latihan-6-2.png)
+
+</details>
+
+<details>
+<summary>
+  
+### Latihan 7 </summary>
+
+#### Sebelum Menambah Data
+![Tampilan data sebelum ditambahkan](SS/Latihan7-1.png)
+
+#### Proses Penambahan Data
+![Tampilan notifikasi ditambahkan](SS/Latihan-7-2.png)
+
+#### Hasil Penambahan
+![Tampilan data setelah ditambahkan](SS/Latihan-7-3.png)
+
+</details>
+
+<details>
+<summary>
+
+### Tugas </summary>
+
+#### Menambahkan Data
+![Tampilan data setelah ditambahkan](SS/Tugas-1.png)
+
+#### Mengedit Data
+![Tampilan data setelah diubah](SS/Tugas-2.png)
+
+#### Menghapus Data
+##### Konfirmasi Penghapusan
+![Tampilan konfirmasi penghapusan](SS/Tugas-3.png)
+
+##### Notifikasi Berhasil Dihapus
+![Tampilan notifikasi berhasil](SS/Tugas-4.png)
+
+##### Tampilan Setelah Data Dihapus
+![Tampilan data setelah dihapus](SS/Tugas-5.png)
